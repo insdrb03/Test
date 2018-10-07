@@ -30,8 +30,10 @@ Esto se modificaría añadiendo (separado por comas) el role en la decoración d
  
  El role Admin tiene permisos para ver todas las páginas y adicionalmente tiene permisos para el mantenimiento de Usuarios como ya expliqué arriba en la definición de roles.
  
- Si los usuarios que han hecho login no tienen permiso para entrar, se redirige a una web de no autorizado.
- Si no se ha iniciado sesión y se hace click en cualquier link de página que requiera login, la app redirige automáticamente a la pantalla de login.
+ *LOGIN
+ 
+ -Si los usuarios que han hecho login no tienen permiso para entrar, se redirige a una web de no autorizado.
+ -Si no se ha iniciado sesión y se hace click en cualquier link de página que requiera login, la app redirige automáticamente a la pantalla de login.
  
  
  Las pruebas unitarias son las siguientes:
