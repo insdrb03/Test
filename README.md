@@ -17,10 +17,10 @@ Los usuarios creados por defecto para pruebas son los siguientes:
 
   * Username / Password
   
-      Admin / Admin123 -> Role Admin : Permisos para ver todas las webs privadas + mantenimiento de usuario
-      insdrb03 / 21081988 -> Role Page_1 : Permisos para ver la Página 1
-      breich / insdrb03 -> Role Page_2 : Permisos para ver la Página 2
-      Scott / Tiger -> Role Page_3 : Permisos para ver la Página 3
+      - Admin / Admin123 -> Role Admin : Permisos para ver todas las webs privadas + mantenimiento de usuario
+      - insdrb03 / 21081988 -> Role Page_1 : Permisos para ver la Página 1
+      - breich / insdrb03 -> Role Page_2 : Permisos para ver la Página 2
+      - Scott / Tiger -> Role Page_3 : Permisos para ver la Página 3
       
       
       Ahora mismo, está diseñado para que cada role tenga permiso para 1 página en concreto, pero se puede añadir rango a los roles.
