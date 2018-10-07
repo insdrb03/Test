@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Page_2";
+}
+
+@using WebApp_TEST.Security
+
+<h2>Page_2</h2>
+
+<div class="row">
+
+<div class="col-md-8">
+    <h3>Welcome @SessionPersister.Username !!</h3>
+    <br />
+    <a class="btn btn-default" href="@Url.Action("Logout","Users")"> Logout </a>
+
+</div>
+
+</div>
+

@@ -1,0 +1,30 @@
+﻿
+@using WebApp_TEST.Security;
+@using Microsoft.AspNet.Identity
+
+<ul class="nav navbar-nav navbar-right">
+    <li>@Html.ActionLink("Page_1", "Page1", "Home")</li>
+    <li>@Html.ActionLink("Page_2", "Page2", "Home")</li>
+    <li>@Html.ActionLink("Page_3", "Page3", "Home")</li>
+    <li>@Html.ActionLink("Admin Mto", "Index", "UsersMto")</li>
+    @if (SessionPersister.Username != null)
+    {
+        if (SessionPersister.Username != "")
+        {
+            <li>@Html.ActionLink("Logout", "Logout", "Users")</li>
+        }
+        else
+        {
+            <li>@Html.ActionLink("Login", "Index", "Users")</li>
+        }
+    }
+    else
+    {
+        if (SessionPersister.Username != "")
+        {
+            <li>@Html.ActionLink("Login", "Index", "Users")</li>
+        }
+    }
+
+</ul>
+

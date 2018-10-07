@@ -1,0 +1,310 @@
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Owin.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.pdb
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.pdb
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csprojAssemblyReference.cache
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CopyComplete
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_UnitTest.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Net.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Owin.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\WebApp_TEST.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebApp_UnitTest\obj\Debug\WebApp_UnitTest.pdb

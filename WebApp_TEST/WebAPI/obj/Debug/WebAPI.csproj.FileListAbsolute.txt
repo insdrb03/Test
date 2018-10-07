@@ -1,0 +1,663 @@
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\Simplified CRUD\C#\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\Nueva carpeta\WebApp_TEST\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\MVC_WEBAPI\WebApp_TEST\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\ApplicationInsights.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\WebAPI.dll.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\WebAPI.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csi.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\csi.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\EntityFramework.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Http.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\WebGrease.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\EntityFramework.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Http.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\river\Desktop\SCHIBSTED_HABITACLIA\PRUEBA\WebApp_TEST\WebAPI\obj\Debug\WebAPI.pdb
